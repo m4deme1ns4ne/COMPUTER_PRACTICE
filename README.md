@@ -6,6 +6,10 @@
 
 ---
 
+- [Лабораторная работа 2](https://github.com/m4deme1ns4ne/labaratornaya2.io)
+
+---
+
 - [Лабораторная работа 4](https://github.com/m4deme1ns4ne/COMPUTER_PRACTICE/tree/main/Лабораторная%20работа%204)
 
 ---
